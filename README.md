@@ -26,8 +26,8 @@
 
 ## 木托盘
 
-<img src="https://MengZhao2017.github.io/kangmao/2.jpeg" width="500" height="200"   alt="MengZhao"/>
-<img src="https://MengZhao2017.github.io/kangmao/4.jpeg" width="500" height="200"  alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/2.jpeg"    alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/4.jpeg"   alt="MengZhao"/>
 
 <p align="left">合作机构：海尔、海信、格力、美的、美菱、西门子、惠而浦 、伊莱克斯、三星、LG等世界著名家电制造企业，并出口美国、德国、意大利、波兰、韩国、日本、澳大利亚、印度、南美、南非等二十多个国家和地区 </p>
 
@@ -43,9 +43,9 @@
 
 ## 联系我们
 
-<p align="left">联系人 : 赵经理  </p>
+<p align="left">联 系 人 : 赵经理  </p>
 <p align="left">联系电话 : 13775823460  </p>
-<p align="left">邮箱 : 1272351238@qq.com </p>
+<p align="left">邮   箱 : 1272351238@qq.com </p>
 
 
 ### Support or Contact
