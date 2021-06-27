@@ -26,16 +26,16 @@
 
 ## 木托盘
 
-<img src="https://MengZhao2017.github.io/kangmao/2.jpeg"    alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/5.jpeg"    alt="MengZhao"/>
 <img src="https://MengZhao2017.github.io/kangmao/4.jpeg"   alt="MengZhao"/>
 
 <p align="left">合作机构：海尔、海信、格力、美的、美菱、西门子、惠而浦 、伊莱克斯、三星、LG等世界著名家电制造企业，并出口美国、德国、意大利、波兰、韩国、日本、澳大利亚、印度、南美、南非等二十多个国家和地区 </p>
 
 ## 木箱
 
-<img src="https://MengZhao2017.github.io/kangmao/6.jpeg" width="500" height="200" align="right"  alt="MengZhao"/>
-<img src="https://MengZhao2017.github.io/kangmao/1.jpeg" width="500" height="200" align="right"  alt="MengZhao"/>
-<img src="https://MengZhao2017.github.io/kangmao/3.jpeg" width="500" height="200" align="right"  alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/6.jpeg"   alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/1.jpeg"  alt="MengZhao"/>
+<img src="https://MengZhao2017.github.io/kangmao/3.jpeg"   alt="MengZhao"/>
 
 <p align="left">合作机构：海尔、海信、格力、美的、美菱、西门子、惠而浦 、伊莱克斯、三星、LG等世界著名家电制造企业，并出口美国、德国、意大利、波兰、韩国、日本、澳大利亚、印度、南美、南非等二十多个国家和地区 </p>
 
